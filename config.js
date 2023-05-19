@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94770611055', 'Owner', true],
+  ['94770611055', 'Rasi😘', true],
   ['94770611055', 'Mr, Rasindu__HACKER-GAMING😾👌👑', true], 
   [''] 
 ] //Number of owners
@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'Rasi 😘GURU┃ᴮᴼᵀ' 
 global.author = '@Rasindu .,, HACKER GAMING👑✨' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
